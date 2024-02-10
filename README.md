@@ -19,7 +19,7 @@ The data used for this project are stock market data downloaded from <a href='ht
 <h2>Features:</h2>
 <h1>Output</h1>
 <h2>Product/Prototype</h2>
-
+<img src='Images/Homepage.png', length=500px, width=250px, alt='Homepage'> | <img src='Images/Learn, Invest, & Earn.png', length=500px, width=250px, alt='Learn, Invest, & Earn'>
 <h1>Recommendations</h1>
 <ul>
   <li>Monitor and gather mobile user metrics to tailor-fit customer experience</li>
