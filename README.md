@@ -7,13 +7,24 @@
   <li>Problem</li>
   To attract customers to GStocks/crypto
   <br>
-  <b>Analytics Problem: </b>How can we make investing enticing to mass market, using data storytelling techniques?
+  <b>Analytics Problem: </b>How can we make investing enticing to the mass market, using data storytelling techniques?
   <br>
   <b>Desired Output: </b>"Laymanized view" of financial info for the not-so-finance-savvy person
   <li>Data Collection</li>
   Gathered data from The Philippine Stock Exchange, Wall Street Journal, Finbox, and Business Inquirer.
   <li>Data Cleaning</li>
   <li>EDA (Exploratory Data Analysis)</li>
+  <i>The visual representation of ACEN's closing stock prices indicates a peak value of $12.92 over the span of five years.</i>
+  <img src='Images/ACEN close.png', length=700px, width=450px, alt='ACEN daily close price for 5 years', align='left'>
+  <br>
+  <i>Determine the five-year stock price growth for various companies. ACEN Corporation stands out with the most significant increase, boasting a remarkable growth of 499.29%</i><br>
+  <img src='Images/Stock growth.png', length=700px, width=450px, alt='Growth in stock for 5 years', align='left'>
+  <br>
+  <i>Comparative analysis of Financial stocks (BDO, BPI, and MBT)
+  <br>
+  While BDO exhibits the highest price movement among the three, it is noteworthy that the performance of companies within comparable industries appears to be consistent.</i>
+  <br>
+  <img src='Images/Financial.png', length=700px, width=450px, alt='Comparative analysis of financial stock prices', align='left'>
   <li>Sentiment Analysis</li>
     <ol>
       <li>Utilized the DistilRoberta pre-trained sentiment analysis model from the Transformers library to analyze sentiment in financial news headlines and print the corresponding sentiment scores assigned to each headline</li>
