@@ -5,6 +5,11 @@
 <h1>The Process</h1>
 <ol>
   <li>Problem</li>
+  To attract customers to GStocks/crypto
+  <br>
+  <b>Analytics Problem: </b>How can we make investing enticing to mass market, using data storytelling techniques?
+  <br>
+  <b>Desired Output: </b>"Laymanized view" of financial info for the not-so-finance-savvy person
   <li>Data Collection</li>
   Gathered data from The Philippine Stock Exchange, Wall Street Journal, Finbox, and Business Inquirer.
   <li>Data Cleaning</li>
